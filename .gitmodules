@@ -3,4 +3,4 @@
 	url = https://github.com/electron/chromium-breakpad.git
 [submodule "deps/third_party/lss"]
 	path = deps/third_party/lss
-	url = https://chromium.googlesource.com/linux-syscall-support
+	url = https://chromium.googlesource.com/linux-syscall-support.git
